@@ -131,3 +131,46 @@ footer{
     border-top:2px solid #aa0000;
     
 }
+/*Task 2 styling*/
+#interactive-zone .iron-button{
+    margin: 10px auto; /*Center the blocks*/
+    display: block; 
+    max-width: 250px; /*Control max width*/
+}
+.calculator-panel{
+    background-color: #333;
+    padding: 1.5rem;
+    border-radius: 6px;
+    margin-top: 1.5rem;
+    text-align: center;
+    border: 1px solid #ffd700;
+}
+.calculator-panel h3{
+    color: #ffd700;
+    margin-top: 0;
+}
+.calculator-panel
+input[type="number"]{
+    width:100px;
+    padding:0.5rem;
+    margin:0.5rem;
+    border:1px solid #555;
+    border-radius:4px;
+    background-color:#444;
+    color:#e0e0e0;
+    text-align:center;
+}
+.calculator-panel span{
+    font-size:1.5rem;
+    color:#ffd700;
+    margin:0 0.5rem;
+}
+.calculator-panel p{
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+#powerResult{
+    color:#00ff00;
+    
+}
