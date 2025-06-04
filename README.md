@@ -1,39 +1,29 @@
 # 🦾 Iron Man Fan Hub
 
-Welcome to the **Iron Man Fan Hub** — a tribute page built as part of **Level 1, Task 1** of my **Web Development Internship at Cognifyz Technologies**. This project showcases the fundamentals of HTML and CSS, wrapped in a sleek Iron Man theme. 🚀
 
----
 
-## 📌 Project Overview
+## 🔥 Features
 
-This fan hub allows users to:
-- 🦸‍♂️ Read an introduction to Iron Man
-- 🖼 View an iconic image of Iron Man
-- 📝 Submit a "callsign" to join the Iron Legion using a simple form
-- 🧭 Navigate between **Home**, **Merch Store**, and **About Tony Stark**
+- 🎨 Iron Man styled layout using HTML & CSS
+- 🦿 Interactive buttons with JavaScript:
+  - Arc Reactor color changer
+  - J.A.R.V.I.S. time-based greeting
+  - Repulsor Power Calculator
+- 📝 Fan Registration Form – join the **Iron Legion!**
+- 🖼️ Background and suit images for visual richness
 
----
-
-## 🛠 Technologies Used
+## 📁 Tech Stack
 
 - HTML5
 - CSS3
+- JavaScript (ES6)
 
----
+## 🚀 How to Run Locally
 
-## 📂 Folder Structure
-ironman-fan-hub/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling
---
-
-## 🎯 Learning Outcomes
-
-- Structuring a semantic HTML page
-- Styling using CSS (colors, layout, fonts)
-- Creating forms and navigation menus
-- Theming a website with creative design
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ironman-fan-hub.git
+   cd ironman-fan-hub
 
 ---
 
